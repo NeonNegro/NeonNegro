@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/c4d9cf74-27cb-40b2-8d00-6f086ea33efd.svg)](https://wakatime.com/@c4d9cf74-27cb-40b2-8d00-6f086ea33efd)
+[![wakatime](https://wakatime.com/badge/user/c4d9cf74-27cb-40b2-8d00-6f086ea33efd.svg?style=for-the-badge)](https://wakatime.com/@c4d9cf74-27cb-40b2-8d00-6f086ea33efd)
 
-<!--
 **NeonNegro/NeonNegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+Supported styles are default, plastic, flat, flat-square, for-the-badge, and social.
